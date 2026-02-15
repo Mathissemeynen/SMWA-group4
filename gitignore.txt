@@ -1,0 +1,15 @@
+# Ignore the config file with credentials
+config.py
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment (if any)
+venv/
+env/
+.venv/
